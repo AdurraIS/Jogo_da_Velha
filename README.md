@@ -4,3 +4,4 @@ Programa muito simples para um começo de desenvolvimento de portfólio.
 <br>
 ## Teste git:
 >Git pull
+>Git add
